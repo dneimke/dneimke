@@ -2,9 +2,9 @@ Hi there 👋
 
 I'm Darren! A passionate software developer & content creator. I love to talk to people, share ideas and learn in public. If that sounds interesting, here are some places where you can find me 😃
 
-🌍 Website: coming soon!
-🐦 Twitter: https://twitter.com/digory
-📹 YouTube: https://www.youtube.com/c/DarrenNeimke
+- 🌍 Website: coming soon!
+- 🐦 Twitter: https://twitter.com/digory
+- 📹 YouTube: https://www.youtube.com/c/DarrenNeimke
 
 Currently I'm working as a Solution Architect helping customers adopt DevOps and automation. 
 
