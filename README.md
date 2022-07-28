@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**dneimke/dneimke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Darren! A passionate software developer & content creator. I love to talk to people, share ideas and learn in public. If that sounds interesting, here are some places where you can find me 😃
 
-Here are some ideas to get you started:
+🌍 Website: coming soon!
+🐦 Twitter: https://twitter.com/digory
+📹 YouTube: https://www.youtube.com/c/DarrenNeimke
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm working as a Solution Architect helping customers adopt DevOps and automation. 
+
+In my spare time I coach field hockey and run a website. You'll find most of my hockey content shared via my YouTube Channel.
+
+Wanna chat or have me on your show? I'd love to!! Ping me on my Twitter. My DMs are open 😃
