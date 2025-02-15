@@ -21,5 +21,3 @@ I'm a passionate software developer with a keen interest in web development, clo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dneimke&layout=compact&theme=radical)
 
 In my spare time I coach field hockey and run a website. You'll find most of my hockey content shared via my YouTube Channel.
-
-Wanna chat or have me on your show? I'd love to!! Ping me on my Twitter. My DMs are open 😃
