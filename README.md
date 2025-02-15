@@ -5,7 +5,7 @@
 ## About Me
 I'm a passionate software developer with a keen interest in web development, cloud computing, and open source projects. I love to learn new technologies and share my knowledge with the community.
 
-- 🌱 I’m currently learning **Flutter** and **Kubernetes**
+- 🌱 I’m currently learning about **GitHub Copilot** and **Devcontainers**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, PowerShell, .NET, and Azure**
 
