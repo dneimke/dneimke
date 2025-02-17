@@ -7,7 +7,7 @@ I'm a passionate software developer with a keen interest in web development, clo
 
 - 🌱 I’m currently learning about **GitHub Copilot** and **Devcontainers**
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, PowerShell, .NET, and Azure**
+- 💬 Ask me about **GitHub Copilot, JavaScript, PowerShell, .NET, 'DevOps', and Azure**
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/dneimke/)
